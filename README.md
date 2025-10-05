@@ -3,7 +3,7 @@
 
 ```makefile
 $(FRAMEWORK_NAME)_FILES = LoadView.mm 
-#$(wildcard folder/*.mm) 
+#$(wildcard LoadView/*.mm) 
 ```
 
 ## 📸 DEMO GIF
