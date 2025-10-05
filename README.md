@@ -1,2 +1,7 @@
 # LoadView-GIF
-icon menu ImGui Gif
+
+
+```makefile
+$(FRAMEWORK_NAME)_FILES = LoadView.mm 
+#$(wildcard folder/*.mm) 
+```
